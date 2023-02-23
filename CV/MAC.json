@@ -1,0 +1,1213 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Joan Maria",
+      "surnames": "Espelta",
+      "title": "Frontend developer at TopTal",
+      "description": "I'm a web developer.\n\n**How I started?**\nI started my career as full stack developer mostly based on Java language (Struts, Spring, JSFs, JSPs,\nHibernate ...) but with a lot of experience in the web foundations ( HTML5, CSS3, Javascript) as well as in frameworks and\nlibraries like jQuery, AngularJs or React. I worked also with the Node.js and Express in the backend, and experience with\nNoSQL and SQL databases.\n\n**How is it going?**\nI'm ready to take any responsibility in the development stack as software engineer, but I'm interested to go a step ahead in the user interface (UI) development and the improving of the final user experience (UX). Aligned with this, currently I'm working in a frontend developer position working with React.\n\n**What are my expectations?** \nI would like to continue my career in the frontend development path.\nIs essential for me to learn new things every day, it is a way to keep me motivated and creative in my job.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9b972065-318a-4201-a493-68e1c23a08ba_zmyu5.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Montblanc",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/jmtalarn"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/4635829/jmtalarn"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jmtalarn"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jmtalarn/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "First computer",
+        "fact": "Amstrad PCW8256"
+      },
+      {
+        "topic": "Favorite editor",
+        "fact": "VS code"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TopTal",
+          "image": {
+            "alt": "toptal-logo-f2f871d16892f5b8859b0822fa740cc3.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/31/bc49155c-ad54-4235-a7ae-0e0557c9a635_toptal-logo-f2f871d1.png"
+          },
+          "URL": "https://www.toptal.com"
+        },
+        "roles": [
+          {
+            "name": "Front end engineer",
+            "startDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "**Staff Portal** project. Working on internal tools to help recruiters and staff to manage talent profiles, job posting and Interviewing procedures. *Worked with React and Typescript, Styled components and GraphQL.*\n\n**Growth** team. Working on content implementation in order to attract traffic. Improving performance of current public pages. *Worked with React, CSS modules and GraphQL.*\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sngular",
+          "image": {
+            "alt": "Sngular",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/832081a9-2a9e-47c3-8e43-3512f94a0cef_6ib0g.png"
+          },
+          "URL": "https://www.sngular.com"
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2020-02-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "Backend developer. Java stuff (Microservices, SpringBoot, MongoDB)\n\nFrontend developer. Javascript, WebComponents, Angular."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rakuten",
+          "image": {
+            "alt": "Rakuten",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f05be50-1c1f-4f86-b5ad-337468fa02ca_mur8v.jpg"
+          },
+          "URL": "http://global.rakuten.com/corp"
+        },
+        "roles": [
+          {
+            "name": "Front end developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2020-02-28",
+            "challenges": [
+              {
+                "description": "Working on the implementation of the frontend for a project to provide a unified and unique experience for all the users managing their own profile and account information across all the companies in group. Built with React with Typescript and Styled Components managing the state of the application with Redux. Developed also part of the backend with NodeJS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "formik",
+                "type": "technology"
+              },
+              {
+                "name": "local-storage",
+                "type": "technology"
+              },
+              {
+                "name": "react-redux",
+                "type": "technology"
+              },
+              {
+                "name": "redux-thunk",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ESL education",
+          "image": {
+            "alt": "ESL education",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f2bedf9a-88bc-4536-af8d-c4e2b49870ef_p15co.png"
+          },
+          "URL": "https://www.esl-languages.com/"
+        },
+        "roles": [
+          {
+            "name": "Front end developer",
+            "startDate": "2018-05-01",
+            "finishDate": "2018-12-31",
+            "challenges": [
+              {
+                "description": "Developing the new products management application in React.js and Redux. Templating system checking for the needed Technical SEO implementation SmartRecruiters integration with the current webpages Newsletter module UI builder, integrated in the new React.js application replacing the old one based on PHP."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "react-redux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Applus IDIADA",
+          "image": {
+            "alt": "Applus IDIADA",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/10c13dd2-52a8-4517-bc4f-cf8f987d6e1a_9hkru.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software engineer",
+            "startDate": "2016-08-01",
+            "finishDate": "2018-05-31",
+            "challenges": [
+              {
+                "description": "Second stage in this company, back again to develop new applications and maintain the legacy code of old web applications. The basis of the most of the applications are J2EE applications with Spring and JSF with the Primefaces components and the legacy ones are based on Struts with an html interface with rich jQuery components The complexity of the systems built guided to add new components to manage some kind of processes with Pentaho Data Integration - Kettle and message queues with RabbitMQ\n\nAssuming role of Product Owner of the projects management application leading next User stories to develop and taking requirements from the internal client"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "jakarta-ee",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Near Consulting",
+          "image": {
+            "alt": "Near Consulting",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6a49375a-e424-4b06-b353-13291878747a_1asdc.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software engineer",
+            "startDate": "2016-04-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "Developing to **Grupo Castilla**, based in Riudoms (Catalunya), working on **Epsilon Plus** new development, based to be the next step in the company evolution, offering it as a SaaS solution to software for human resources companies departments and all about related."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Camunda",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "java-ee",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Profile Software Services",
+          "image": {
+            "alt": "Profile Software Services",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/838aa527-ecaa-4202-9335-7d8eb80694e4_vj2nh.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software engineer",
+            "startDate": "2015-06-01",
+            "finishDate": "2016-04-30",
+            "challenges": [
+              {
+                "description": "### Software engineer\n\nDefining and implementing: - deployment procedures - architectures for the backend. - building procedures for frontend projects\n\nBuilding java web projects. Integrating MongoDb and Spring-boot to implement API rest Services and user interfaces built with Angular.js Implemented a Continuous Integration system (Git, Jenkins, SonarQube) to build projects and deploy them into Amazon Web Services"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "gruntjs",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Applus IDIADA",
+          "image": {
+            "alt": "Applus IDIADA",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/28300927-b7ac-498a-9f6d-02103d94b162_dgkon.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software engineer",
+            "startDate": "2010-03-01",
+            "finishDate": "2015-06-30",
+            "challenges": [
+              {
+                "description": "**Software developer**. Developing tasks working in a software to manage and plan tasks and projects in the company. Solving incidences, improving existing modules and implementing new ones. Fighting against Javascript (jQuery and YUI), Struts apps, Primefaces (JSF) and Spring.\n\n**UI/UX designer** Responsabilities about all the related with the UI design and UX improvement. Getting mastered in CSS3."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "T-Systems (dCore network)",
+          "image": {
+            "alt": "T-Systems (dCore network)",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b7524e87-cc36-450b-8b47-3801905b381f_28cde.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-05-31",
+            "challenges": [
+              {
+                "description": "\\-NVS/GIS project,automotive management system for the Volkswagen Group from the United Kingdom. Desktop Java Application (Swing), connecting to a Local Server (J2EE) which is communicating with the Central Servers (HOST). -NVS/MI project, message packaging and management through the different NVS systems using WebSphere Message Broker (IBM) -MELVA project, Java Web Application (Struts and Hibernate ) for the Generalitat Valenciana forensics."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "Swing",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atos Origin (Major events division)",
+          "image": {
+            "alt": "Atos Origin (Major events division)",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f7aacad-b158-4742-8b3b-104188d83c6a_lfzgv.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2006-12-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "Games Management System. Electronic Staff Information application developer (volunteers management) for the Vancouver 2010 Winter Olympic Games. Java programming with the Struts framework over a MS-SQL Server 2003 database and Hibernate as a data abstraction layer. (4 months) - Information Diffusion System. Information Content Management System application developer for the News, Background and Message-board articles and the athletes biographies management (Bios) for the Beijing 2008 Summer Olympic Games. Java web application with MVC patterns and JSP's over an Oracle database, generating xml files with xslt processing. All this information is finally shown in the INFO application inside the organizing committee (BOCOG) internal network. - Info Expert for the INFO 2008 application (Beijing), support and incidence resolution during the Olympic Games for Beijing 2008, in 12-hour shifts at the Technological Operational Centre (Digital Headquarter Building), building for the technological support to the Olympic venues."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "jmtalarn/standalone-store",
+          "description": "",
+          "URL": "https://github.com/jmtalarn/standalone-store"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-07-01",
+            "finishDate": "2019-07-31",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "ECMAScript",
+                "type": "technology"
+              },
+              {
+                "name": "Elm",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "web-component",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "jmtalarn/rak-a-kart",
+          "description": "",
+          "URL": "https://github.com/jmtalarn/rak-a-kart"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-11-01",
+            "finishDate": "2018-11-30"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Strikethru Ionic App",
+          "description": "A notebook implementation of the notebook for Strikethru productivity system",
+          "URL": "https://github.com/jmtalarn/strikethru"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-11-30",
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "cordova-plugins",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "donuts_bakery",
+          "description": "D3 and plain javascript library to bake doughnuts!",
+          "URL": "https://github.com/jmtalarn/donuts_bakery"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2016-03-31",
+            "competences": [
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "requirejs",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "material-design-lite-ghost-theme",
+          "description": "A Ghost theme using the Material Design lite css framework",
+          "URL": "https://github.com/jmtalarn/material-design-lite-ghost-theme"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-09-01",
+            "finishDate": "2015-10-31",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "ghost",
+                "type": "technology"
+              },
+              {
+                "name": "material-design",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "NbTest - Users Management API",
+          "description": "NbTest - Users Management API. An attempt to implement a RESTful API for users management.\n\nDevelopment to make an example about how to use the Google Api and how to implement a RESTful API service.",
+          "URL": "https://bitbucket.org/jmtalarn/nbtest-users-management-api"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-11-01",
+            "finishDate": "2012-11-30",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "google-api",
+                "type": "technology"
+              },
+              {
+                "name": "google-apps",
+                "type": "technology"
+              },
+              {
+                "name": "java-ee",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "moodle-timetable-block",
+          "description": "A block for Moodle to manage classroom timetables",
+          "URL": "https://github.com/jmtalarn/moodle-timetable-block"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-07-01",
+            "finishDate": "2010-07-31",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Moodle",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "tarragonawifi",
+          "description": "Web application development. This site is intended to be a compilation and selection of wifi hotspots for province of Tarragona. Personal project developed in my spare time in Python programming language with the Django framework running over the Google App Engine Services in the backend and YUI3",
+          "URL": "https://bitbucket.org/jmtalarn/tarragonawifi"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-01-01",
+            "finishDate": "2014-12-31",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "django-nonrel",
+                "type": "technology"
+              },
+              {
+                "name": "google-app-engine",
+                "type": "technology"
+              },
+              {
+                "name": "yui3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "mobile-tarragonawifi",
+          "description": "Mobile web application using the resources generated by Tarragona Wifi project",
+          "URL": "https://bitbucket.org/jmtalarn/mobile-tarragonawifi"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-01-01",
+            "finishDate": "2014-12-31",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "google-app-engine",
+                "type": "technology"
+              },
+              {
+                "name": "jquery-mobile",
+                "type": "technology"
+              },
+              {
+                "name": "webapp2",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Fundamentos Web",
+          "description": "Book published on Amazon about definitions and explanation about Web foundations.",
+          "URL": "https://amzn.to/2UdkQyz",
+          "image": {
+            "alt": "Fundamentos Web",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/24462f70-1101-4c67-833e-db6ef483c2a6_qw5ez.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2020-11-01",
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Book"
+        ]
+      },
+      {
+        "details": {
+          "name": "web dev notes — web dev notes",
+          "description": "Web developer. Backend + Frontend. Learning about designing user interfaces, improvement of user experience and its implementation.",
+          "URL": "http://blog.jmtalarn.com/"
+        },
+        "type": "post",
+        "publishingDate": "2015-07-01",
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Gatsby",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JM. Talarn - ARA VaDeJocs — ARA VaDeJocs",
+          "description": "Articles written in the videogames blog under the on-line version of Ara newspaper.",
+          "URL": "http://vadejocs.ara.cat/s/redaccio/jm-talarn/"
+        },
+        "type": "post",
+        "publishingDate": "2010-09-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Mobile Web Specialist Nanodegree",
+        "startDate": "2018-02-01",
+        "finishDate": "2018-06-30",
+        "institution": {
+          "name": "Mobile Web Specialist Nanodegree",
+          "description": "",
+          "URL": "https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024",
+          "image": {
+            "alt": "Mobile Web Specialist Nanodegree",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/bd58252f-d207-4600-87bb-9a6590dcb999_zptix.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ECMAScript",
+            "type": "technology"
+          },
+          {
+            "name": "Gulp.JS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "css3",
+            "type": "technology"
+          },
+          {
+            "name": "performance",
+            "type": "technology"
+          },
+          {
+            "name": "progressive-web-apps",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
+        "startDate": "2017-11-01",
+        "finishDate": "2018-02-28",
+        "institution": {
+          "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
+          "description": "",
+          "URL": "https://www.udacity.com/grow-with-google",
+          "image": {
+            "alt": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac20722f-57c8-401a-89dc-aabf981db952_f2oi3.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ECMAScript",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "indexeddb",
+            "type": "technology"
+          },
+          {
+            "name": "service-worker",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Llicenciatura en Comunicació audiovisual",
+        "startDate": "2009-01-01",
+        "finishDate": "2015-01-01",
+        "institution": {
+          "name": "Universitat oberta de catalunya",
+          "description": "",
+          "image": {
+            "alt": "Llicenciatura en Comunicació audiovisual",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/57d46748-23d0-44c6-8c62-729d0430f026_gpenr.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "media",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Enginyeria tècnica en informàtica de gestió",
+        "startDate": "1999-01-01",
+        "finishDate": "2005-01-01",
+        "institution": {
+          "name": "Universitat Rovira i Virgili",
+          "description": "",
+          "image": {
+            "alt": "Enginyeria tècnica en informàtica de gestió",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c66642f5-3664-4a9d-bd02-952fb71d0a4a_jlgja.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "software-design",
+            "type": "technology"
+          },
+          {
+            "name": "software-engineering",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jmtalarn/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/4635829/jmtalarn"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Product Design (UI/UX)"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
