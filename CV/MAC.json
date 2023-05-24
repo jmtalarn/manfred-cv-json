@@ -720,35 +720,6 @@
       },
       {
         "details": {
-          "name": "moodle-timetable-block",
-          "description": "A block for Moodle to manage classroom timetables",
-          "URL": "https://github.com/jmtalarn/moodle-timetable-block"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2010-07-01",
-            "competences": [
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "Moodle",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2010-07-31"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "jmtalarn/standalone-store",
           "URL": "https://github.com/jmtalarn/standalone-store"
         },
@@ -1197,9 +1168,6 @@
       },
       {
         "name": "mobile-tarragonawifi"
-      },
-      {
-        "name": "moodle-timetable-block"
       },
       {
         "name": "tarragonawifi"
