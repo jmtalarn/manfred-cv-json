@@ -707,20 +707,6 @@
             "finishDate": "2019-07-31"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "jmtalarn/rak-a-kart",
-          "URL": "https://github.com/jmtalarn/rak-a-kart"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-11-01",
-            "finishDate": "2018-11-30"
-          }
-        ]
       }
     ],
     "publicArtifacts": [
@@ -1083,9 +1069,6 @@
     "projects": [
       {
         "name": "Strikethru Ionic App"
-      },
-      {
-        "name": "jmtalarn/rak-a-kart"
       },
       {
         "name": "jmtalarn/standalone-store"
