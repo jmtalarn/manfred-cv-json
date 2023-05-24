@@ -1011,6 +1011,20 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Staying in a position which I can still be a web developer. I'm not intended to work on managing positions, but if my experience in the product and the situation in the company I would be working requires me to do that I'll be on it if I'm prepared enough.\nI've enough experience to work both in backend or frontend but I'm very happy while I'm working on the frontend. I mean, I like to build the final interface where the user is interacting with the system. I really enjoy \"maquetando\" the design provided by designers and talking with them about the reasons and why they want it in that way.\n\nI've worked with Java technologies but I really love working with Javascript. I like continuously learning and Javascript ecosystem nowadays is so rich to find new libraries and frameworks to learn. React is currently my favourite. I would like to build someday something with React Native also.\n\nAs said in a previous question, is essential for me to learn new things every day, it is a way to keep me motivated and creative in my job.\n\nMy perfect company to work has to be very 'family friendly' and understand if you need to take care of the kiddos eventually. This is one of the reason I'm looking for a remote position. Also and in terms of company management, transparency and communication is essential. Knowing where the company is going and which are the intentions for the development team makes you happy, seeing trust with you, and makes you calm and relaxed in front of uncertainty.",
     "projects": [
       {
