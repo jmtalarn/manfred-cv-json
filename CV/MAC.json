@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,34 +11,16 @@
       "title": "Frontend developer at TopTal",
       "description": "I'm a web developer.\n\n**How I started?**\nI started my career as full stack developer mostly based on Java language (Struts, Spring, JSFs, JSPs,\nHibernate ...) but with a lot of experience in the web foundations ( HTML5, CSS3, Javascript) as well as in frameworks and\nlibraries like jQuery, AngularJs or React. I worked also with the Node.js and Express in the backend, and experience with\nNoSQL and SQL databases.\n\n**How is it going?**\nI'm ready to take any responsibility in the development stack as software engineer, but I'm interested to go a step ahead in the user interface (UI) development and the improving of the final user experience (UX). Aligned with this, currently I'm working in a frontend developer position working with React.\n\n**What are my expectations?** \nI would like to continue my career in the frontend development path.\nIs essential for me to learn new things every day, it is a way to keep me motivated and creative in my job.",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9b972065-318a-4201-a493-68e1c23a08ba_zmyu5.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9b972065-318a-4201-a493-68e1c23a08ba_zmyu5.png",
+        "alt": "profile-image"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJoxNiIW2pphIR2l-gWuBOTb4)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Montblanc",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Montblanc"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/jmtalarn"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/4635829/jmtalarn"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/jmtalarn"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jmtalarn/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "First computer",
@@ -56,8 +38,8 @@
         "organization": {
           "name": "TopTal",
           "image": {
-            "alt": "toptal-logo-f2f871d16892f5b8859b0822fa740cc3.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/31/bc49155c-ad54-4235-a7ae-0e0557c9a635_toptal-logo-f2f871d1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/31/bc49155c-ad54-4235-a7ae-0e0557c9a635_toptal-logo-f2f871d1.png",
+            "alt": "toptal-logo-f2f871d16892f5b8859b0822fa740cc3.png"
           },
           "URL": "https://www.toptal.com"
         },
@@ -95,8 +77,8 @@
         "organization": {
           "name": "Sngular",
           "image": {
-            "alt": "Sngular",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/832081a9-2a9e-47c3-8e43-3512f94a0cef_6ib0g.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/832081a9-2a9e-47c3-8e43-3512f94a0cef_6ib0g.png",
+            "alt": "Sngular"
           },
           "URL": "https://www.sngular.com"
         },
@@ -139,8 +121,8 @@
         "organization": {
           "name": "Rakuten",
           "image": {
-            "alt": "Rakuten",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f05be50-1c1f-4f86-b5ad-337468fa02ca_mur8v.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f05be50-1c1f-4f86-b5ad-337468fa02ca_mur8v.jpg",
+            "alt": "Rakuten"
           },
           "URL": "http://global.rakuten.com/corp"
         },
@@ -207,8 +189,8 @@
         "organization": {
           "name": "ESL education",
           "image": {
-            "alt": "ESL education",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f2bedf9a-88bc-4536-af8d-c4e2b49870ef_p15co.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f2bedf9a-88bc-4536-af8d-c4e2b49870ef_p15co.png",
+            "alt": "ESL education"
           },
           "URL": "https://www.esl-languages.com/"
         },
@@ -255,8 +237,8 @@
         "organization": {
           "name": "Applus IDIADA",
           "image": {
-            "alt": "Applus IDIADA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/10c13dd2-52a8-4517-bc4f-cf8f987d6e1a_9hkru.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/10c13dd2-52a8-4517-bc4f-cf8f987d6e1a_9hkru.png",
+            "alt": "Applus IDIADA"
           }
         },
         "roles": [
@@ -302,8 +284,8 @@
         "organization": {
           "name": "Near Consulting",
           "image": {
-            "alt": "Near Consulting",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6a49375a-e424-4b06-b353-13291878747a_1asdc.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6a49375a-e424-4b06-b353-13291878747a_1asdc.jpg",
+            "alt": "Near Consulting"
           }
         },
         "roles": [
@@ -349,8 +331,8 @@
         "organization": {
           "name": "Profile Software Services",
           "image": {
-            "alt": "Profile Software Services",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/838aa527-ecaa-4202-9335-7d8eb80694e4_vj2nh.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/838aa527-ecaa-4202-9335-7d8eb80694e4_vj2nh.png",
+            "alt": "Profile Software Services"
           }
         },
         "roles": [
@@ -416,8 +398,8 @@
         "organization": {
           "name": "Applus IDIADA",
           "image": {
-            "alt": "Applus IDIADA",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/28300927-b7ac-498a-9f6d-02103d94b162_dgkon.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/28300927-b7ac-498a-9f6d-02103d94b162_dgkon.png",
+            "alt": "Applus IDIADA"
           }
         },
         "roles": [
@@ -463,8 +445,8 @@
         "organization": {
           "name": "T-Systems (dCore network)",
           "image": {
-            "alt": "T-Systems (dCore network)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b7524e87-cc36-450b-8b47-3801905b381f_28cde.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b7524e87-cc36-450b-8b47-3801905b381f_28cde.png",
+            "alt": "T-Systems (dCore network)"
           }
         },
         "roles": [
@@ -506,8 +488,8 @@
         "organization": {
           "name": "Atos Origin (Major events division)",
           "image": {
-            "alt": "Atos Origin (Major events division)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f7aacad-b158-4742-8b3b-104188d83c6a_lfzgv.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f7aacad-b158-4742-8b3b-104188d83c6a_lfzgv.png",
+            "alt": "Atos Origin (Major events division)"
           }
         },
         "roles": [
@@ -557,8 +539,254 @@
     "projects": [
       {
         "details": {
+          "name": "NbTest - Users Management API",
+          "description": "NbTest - Users Management API. An attempt to implement a RESTful API for users management.\n\nDevelopment to make an example about how to use the Google Api and how to implement a RESTful API service.",
+          "URL": "https://bitbucket.org/jmtalarn/nbtest-users-management-api"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-11-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "google-api",
+                "type": "technology"
+              },
+              {
+                "name": "google-apps",
+                "type": "technology"
+              },
+              {
+                "name": "java-ee",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2012-11-30"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "mobile-tarragonawifi",
+          "description": "Mobile web application using the resources generated by Tarragona Wifi project",
+          "URL": "https://bitbucket.org/jmtalarn/mobile-tarragonawifi"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "google-app-engine",
+                "type": "technology"
+              },
+              {
+                "name": "jquery-mobile",
+                "type": "technology"
+              },
+              {
+                "name": "webapp2",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2014-12-31"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "material-design-lite-ghost-theme",
+          "description": "A Ghost theme using the Material Design lite css framework",
+          "URL": "https://github.com/jmtalarn/material-design-lite-ghost-theme"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "ghost",
+                "type": "technology"
+              },
+              {
+                "name": "material-design",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2015-10-31"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "tarragonawifi",
+          "description": "Web application development. This site is intended to be a compilation and selection of wifi hotspots for province of Tarragona. Personal project developed in my spare time in Python programming language with the Django framework running over the Google App Engine Services in the backend and YUI3",
+          "URL": "https://bitbucket.org/jmtalarn/tarragonawifi"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-01-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "django-nonrel",
+                "type": "technology"
+              },
+              {
+                "name": "google-app-engine",
+                "type": "technology"
+              },
+              {
+                "name": "yui3",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2014-12-31"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Strikethru Ionic App",
+          "description": "A notebook implementation of the notebook for Strikethru productivity system",
+          "URL": "https://github.com/jmtalarn/strikethru"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-04-01",
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "cordova-plugins",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-11-30"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "donuts_bakery",
+          "description": "D3 and plain javascript library to bake doughnuts!",
+          "URL": "https://github.com/jmtalarn/donuts_bakery"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-03-01",
+            "competences": [
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "requirejs",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2016-03-31"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "moodle-timetable-block",
+          "description": "A block for Moodle to manage classroom timetables",
+          "URL": "https://github.com/jmtalarn/moodle-timetable-block"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-07-01",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Moodle",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2010-07-31"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "jmtalarn/standalone-store",
-          "description": "",
           "URL": "https://github.com/jmtalarn/standalone-store"
         },
         "type": "openSource",
@@ -566,7 +794,6 @@
           {
             "name": "Developer",
             "startDate": "2019-07-01",
-            "finishDate": "2019-07-31",
             "competences": [
               {
                 "name": "Angular2+",
@@ -612,14 +839,14 @@
                 "name": "web-component",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2019-07-31"
           }
         ]
       },
       {
         "details": {
           "name": "jmtalarn/rak-a-kart",
-          "description": "",
           "URL": "https://github.com/jmtalarn/rak-a-kart"
         },
         "type": "openSource",
@@ -628,253 +855,6 @@
             "name": "Developer",
             "startDate": "2018-11-01",
             "finishDate": "2018-11-30"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Strikethru Ionic App",
-          "description": "A notebook implementation of the notebook for Strikethru productivity system",
-          "URL": "https://github.com/jmtalarn/strikethru"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-04-01",
-            "finishDate": "2018-11-30",
-            "competences": [
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "Ionic",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "cordova-plugins",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "donuts_bakery",
-          "description": "D3 and plain javascript library to bake doughnuts!",
-          "URL": "https://github.com/jmtalarn/donuts_bakery"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-03-01",
-            "finishDate": "2016-03-31",
-            "competences": [
-              {
-                "name": "D3",
-                "type": "technology"
-              },
-              {
-                "name": "Jasmine",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "requirejs",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "material-design-lite-ghost-theme",
-          "description": "A Ghost theme using the Material Design lite css framework",
-          "URL": "https://github.com/jmtalarn/material-design-lite-ghost-theme"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2015-09-01",
-            "finishDate": "2015-10-31",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Gulp.JS",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "ghost",
-                "type": "technology"
-              },
-              {
-                "name": "material-design",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "NbTest - Users Management API",
-          "description": "NbTest - Users Management API. An attempt to implement a RESTful API for users management.\n\nDevelopment to make an example about how to use the Google Api and how to implement a RESTful API service.",
-          "URL": "https://bitbucket.org/jmtalarn/nbtest-users-management-api"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-11-01",
-            "finishDate": "2012-11-30",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "google-api",
-                "type": "technology"
-              },
-              {
-                "name": "google-apps",
-                "type": "technology"
-              },
-              {
-                "name": "java-ee",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "moodle-timetable-block",
-          "description": "A block for Moodle to manage classroom timetables",
-          "URL": "https://github.com/jmtalarn/moodle-timetable-block"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2010-07-01",
-            "finishDate": "2010-07-31",
-            "competences": [
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "Moodle",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "tarragonawifi",
-          "description": "Web application development. This site is intended to be a compilation and selection of wifi hotspots for province of Tarragona. Personal project developed in my spare time in Python programming language with the Django framework running over the Google App Engine Services in the backend and YUI3",
-          "URL": "https://bitbucket.org/jmtalarn/tarragonawifi"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2010-01-01",
-            "finishDate": "2014-12-31",
-            "competences": [
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "django-nonrel",
-                "type": "technology"
-              },
-              {
-                "name": "google-app-engine",
-                "type": "technology"
-              },
-              {
-                "name": "yui3",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "mobile-tarragonawifi",
-          "description": "Mobile web application using the resources generated by Tarragona Wifi project",
-          "URL": "https://bitbucket.org/jmtalarn/mobile-tarragonawifi"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2010-01-01",
-            "finishDate": "2014-12-31",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "google-app-engine",
-                "type": "technology"
-              },
-              {
-                "name": "jquery-mobile",
-                "type": "technology"
-              },
-              {
-                "name": "webapp2",
-                "type": "technology"
-              }
-            ]
           }
         ]
       }
@@ -886,12 +866,15 @@
           "description": "Book published on Amazon about definitions and explanation about Web foundations.",
           "URL": "https://amzn.to/2UdkQyz",
           "image": {
-            "alt": "Fundamentos Web",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/24462f70-1101-4c67-833e-db6ef483c2a6_qw5ez.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/24462f70-1101-4c67-833e-db6ef483c2a6_qw5ez.png",
+            "alt": "Fundamentos Web"
           }
         },
         "type": "achievement",
         "publishingDate": "2020-11-01",
+        "tags": [
+          "Book"
+        ],
         "relatedCompetences": [
           {
             "name": "CSS",
@@ -905,9 +888,6 @@
             "name": "JavaScript",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Book"
         ]
       },
       {
@@ -936,15 +916,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "JM. Talarn - ARA VaDeJocs — ARA VaDeJocs",
-          "description": "Articles written in the videogames blog under the on-line version of Ara newspaper.",
-          "URL": "http://vadejocs.ara.cat/s/redaccio/jm-talarn/"
-        },
-        "type": "post",
-        "publishingDate": "2010-09-01"
       }
     ]
   },
@@ -966,6 +937,24 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -978,7 +967,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "NoSQL",
           "type": "technology"
         }
       },
@@ -996,45 +985,103 @@
       },
       {
         "skill": {
-          "name": "NoSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Enginyeria tècnica en informàtica de gestió",
+        "startDate": "1999-01-01",
+        "institution": {
+          "name": "Universitat Rovira i Virgili",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c66642f5-3664-4a9d-bd02-952fb71d0a4a_jlgja.png",
+            "alt": "Enginyeria tècnica en informàtica de gestió"
+          }
+        },
+        "finishDate": "2005-01-01",
+        "linkedCompetences": [
+          {
+            "name": "software-design",
+            "type": "technology"
+          },
+          {
+            "name": "software-engineering",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
+        "startDate": "2017-11-01",
+        "institution": {
+          "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
+          "URL": "https://www.udacity.com/grow-with-google",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac20722f-57c8-401a-89dc-aabf981db952_f2oi3.jpg",
+            "alt": "Google Developer Scholarship - Advanced Mobile Web Specialist track."
+          }
+        },
+        "finishDate": "2018-02-28",
+        "linkedCompetences": [
+          {
+            "name": "ECMAScript",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "indexeddb",
+            "type": "technology"
+          },
+          {
+            "name": "service-worker",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Llicenciatura en Comunicació audiovisual",
+        "startDate": "2009-01-01",
+        "institution": {
+          "name": "Universitat oberta de catalunya",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/57d46748-23d0-44c6-8c62-729d0430f026_gpenr.jpg",
+            "alt": "Llicenciatura en Comunicació audiovisual"
+          }
+        },
+        "finishDate": "2015-01-01",
+        "linkedCompetences": [
+          {
+            "name": "media",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Mobile Web Specialist Nanodegree",
         "startDate": "2018-02-01",
-        "finishDate": "2018-06-30",
         "institution": {
           "name": "Mobile Web Specialist Nanodegree",
-          "description": "",
           "URL": "https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024",
           "image": {
-            "alt": "Mobile Web Specialist Nanodegree",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/bd58252f-d207-4600-87bb-9a6590dcb999_zptix.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/bd58252f-d207-4600-87bb-9a6590dcb999_zptix.png",
+            "alt": "Mobile Web Specialist Nanodegree"
           }
         },
+        "finishDate": "2018-06-30",
         "linkedCompetences": [
           {
             "name": "ECMAScript",
@@ -1065,86 +1112,26 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
-        "startDate": "2017-11-01",
-        "finishDate": "2018-02-28",
-        "institution": {
-          "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
-          "description": "",
-          "URL": "https://www.udacity.com/grow-with-google",
-          "image": {
-            "alt": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac20722f-57c8-401a-89dc-aabf981db952_f2oi3.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "ECMAScript",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "indexeddb",
-            "type": "technology"
-          },
-          {
-            "name": "service-worker",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Llicenciatura en Comunicació audiovisual",
-        "startDate": "2009-01-01",
-        "finishDate": "2015-01-01",
-        "institution": {
-          "name": "Universitat oberta de catalunya",
-          "description": "",
-          "image": {
-            "alt": "Llicenciatura en Comunicació audiovisual",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/57d46748-23d0-44c6-8c62-729d0430f026_gpenr.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "media",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Enginyeria tècnica en informàtica de gestió",
-        "startDate": "1999-01-01",
-        "finishDate": "2005-01-01",
-        "institution": {
-          "name": "Universitat Rovira i Virgili",
-          "description": "",
-          "image": {
-            "alt": "Enginyeria tècnica en informàtica de gestió",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c66642f5-3664-4a9d-bd02-952fb71d0a4a_jlgja.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "software-design",
-            "type": "technology"
-          },
-          {
-            "name": "software-engineering",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Uncertainty tolerance",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -1152,12 +1139,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jmtalarn/"
+          "URL": "https://www.linkedin.com/in/jmtalarn/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/4635829/jmtalarn"
+          "URL": "https://stackoverflow.com/users/4635829/jmtalarn",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/jmtalarn",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/jmtalarn",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "jmtalarn@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "657764770",
+          "countryCode": "+34"
         }
       ]
     },
@@ -1209,5 +1213,37 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Staying in a position which I can still be a web developer. I'm not intended to work on managing positions, but if my experience in the product and the situation in the company I would be working requires me to do that I'll be on it if I'm prepared enough.\nI've enough experience to work both in backend or frontend but I'm very happy while I'm working on the frontend. I mean, I like to build the final interface where the user is interacting with the system. I really enjoy \"maquetando\" the design provided by designers and talking with them about the reasons and why they want it in that way.\n\nI've worked with Java technologies but I really love working with Javascript. I like continuously learning and Javascript ecosystem nowadays is so rich to find new libraries and frameworks to learn. React is currently my favourite. I would like to build someday something with React Native also.\n\nAs said in a previous question, is essential for me to learn new things every day, it is a way to keep me motivated and creative in my job.\n\nMy perfect company to work has to be very 'family friendly' and understand if you need to take care of the kiddos eventually. This is one of the reason I'm looking for a remote position. Also and in terms of company management, transparency and communication is essential. Knowing where the company is going and which are the intentions for the development team makes you happy, seeing trust with you, and makes you calm and relaxed in front of uncertainty.",
+    "projects": [
+      {
+        "name": "NbTest - Users Management API"
+      },
+      {
+        "name": "Strikethru Ionic App"
+      },
+      {
+        "name": "donuts_bakery"
+      },
+      {
+        "name": "jmtalarn/rak-a-kart"
+      },
+      {
+        "name": "jmtalarn/standalone-store"
+      },
+      {
+        "name": "material-design-lite-ghost-theme"
+      },
+      {
+        "name": "mobile-tarragonawifi"
+      },
+      {
+        "name": "moodle-timetable-block"
+      },
+      {
+        "name": "tarragonawifi"
+      }
+    ]
   }
 }
