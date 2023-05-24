@@ -647,66 +647,6 @@
             "finishDate": "2018-11-30"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "jmtalarn/standalone-store",
-          "URL": "https://github.com/jmtalarn/standalone-store"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-07-01",
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "ECMAScript",
-                "type": "technology"
-              },
-              {
-                "name": "Elm",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "Svelte",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Webpack",
-                "type": "technology"
-              },
-              {
-                "name": "web-component",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2019-07-31"
-          }
-        ]
       }
     ],
     "publicArtifacts": [
@@ -1069,9 +1009,6 @@
     "projects": [
       {
         "name": "Strikethru Ionic App"
-      },
-      {
-        "name": "jmtalarn/standalone-store"
       },
       {
         "name": "mobile-tarragonawifi"
