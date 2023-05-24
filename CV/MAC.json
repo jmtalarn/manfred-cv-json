@@ -576,43 +576,6 @@
       },
       {
         "details": {
-          "name": "material-design-lite-ghost-theme",
-          "description": "A Ghost theme using the Material Design lite css framework",
-          "URL": "https://github.com/jmtalarn/material-design-lite-ghost-theme"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2015-09-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Gulp.JS",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "ghost",
-                "type": "technology"
-              },
-              {
-                "name": "material-design",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2015-10-31"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "tarragonawifi",
           "description": "Web application development. This site is intended to be a compilation and selection of wifi hotspots for province of Tarragona. Personal project developed in my spare time in Python programming language with the Django framework running over the Google App Engine Services in the backend and YUI3",
           "URL": "https://bitbucket.org/jmtalarn/tarragonawifi"
@@ -1162,9 +1125,6 @@
       },
       {
         "name": "jmtalarn/standalone-store"
-      },
-      {
-        "name": "material-design-lite-ghost-theme"
       },
       {
         "name": "mobile-tarragonawifi"
