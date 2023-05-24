@@ -650,39 +650,6 @@
       },
       {
         "details": {
-          "name": "donuts_bakery",
-          "description": "D3 and plain javascript library to bake doughnuts!",
-          "URL": "https://github.com/jmtalarn/donuts_bakery"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-03-01",
-            "competences": [
-              {
-                "name": "D3",
-                "type": "technology"
-              },
-              {
-                "name": "Jasmine",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "requirejs",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2016-03-31"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "jmtalarn/standalone-store",
           "URL": "https://github.com/jmtalarn/standalone-store"
         },
@@ -1116,9 +1083,6 @@
     "projects": [
       {
         "name": "Strikethru Ionic App"
-      },
-      {
-        "name": "donuts_bakery"
       },
       {
         "name": "jmtalarn/rak-a-kart"
