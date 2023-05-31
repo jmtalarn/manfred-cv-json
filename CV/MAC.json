@@ -1004,14 +1004,17 @@
       ],
       "preferredRoles": [
         "Frontend Developer",
-        "Full-stack Developer",
-        "Product Design (UI/UX)"
+        "Full-stack Developer"
       ]
     },
     "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
