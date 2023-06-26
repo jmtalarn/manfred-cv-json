@@ -36,6 +36,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "HCL Tech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/26/b9974710-ec61-4dae-8f80-12eabf496a32_hcl-technologies-vec.png",
+            "alt": "hcl-technologies-vector-logo.png"
+          },
+          "URL": "https://www.hcltech.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "Working as external resource for ING Bank company. Front end development with technology based on WebComponents and Microfrontend."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "TopTal",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/31/bc49155c-ad54-4235-a7ae-0e0557c9a635_toptal-logo-f2f871d1.png",
