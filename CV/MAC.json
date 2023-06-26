@@ -47,6 +47,7 @@
           {
             "name": "Front end engineer",
             "startDate": "2021-06-01",
+            "finishDate": "2023-02-01",
             "challenges": [
               {
                 "description": "**Staff Portal** project. Working on internal tools to help recruiters and staff to manage talent profiles, job posting and Interviewing procedures. *Worked with React and Typescript, Styled components and GraphQL.*\n\n**Growth** team. Working on content implementation in order to attract traffic. Improving performance of current public pages. *Worked with React, CSS modules and GraphQL.*\n\n"
@@ -628,7 +629,7 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -712,15 +713,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
