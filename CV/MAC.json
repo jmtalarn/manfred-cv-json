@@ -54,6 +54,65 @@
     "jobs": [
       {
         "organization": {
+          "name": "Emburse",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/4696dbc5-de7e-4a21-8c57-2a2d128ea05b_emburse_logo.jpeg",
+            "alt": "emburse_logo.jpeg"
+          },
+          "URL": "https://www.emburse.com/"
+        },
+        "roles": [
+          {
+            "name": "Front end developer",
+            "startDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "Working in the Chromeriver application, which is intended to ease and improve the expense management of the companies.\nDeveloping new features with Reactjs and solving and improving current legacy code written in Backbone and Marionettejs."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MarionetteJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "HCL Tech",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/26/b9974710-ec61-4dae-8f80-12eabf496a32_hcl-technologies-vec.png",
