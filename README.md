@@ -2,7 +2,7 @@
 
 # Joan Maria Talarn Espelta's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/b775f53b-031d-464e-8027-37cb68dc0052).
 <br/>
 <br/>
 
