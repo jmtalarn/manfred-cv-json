@@ -547,7 +547,7 @@
             "finishDate": "2010-05-31",
             "challenges": [
               {
-                "description": "\\-NVS/GIS project,automotive management system for the Volkswagen Group from the United Kingdom. Desktop Java Application (Swing), connecting to a Local Server (J2EE) which is communicating with the Central Servers (HOST). -NVS/MI project, message packaging and management through the different NVS systems using WebSphere Message Broker (IBM) -MELVA project, Java Web Application (Struts and Hibernate ) for the Generalitat Valenciana forensics."
+                "description": "- NVS/GIS project,automotive management system for the Volkswagen Group from the United Kingdom. Desktop Java Application (Swing), connecting to a Local Server (J2EE) which is communicating with the Central Servers (HOST). \n- NVS/MI project, message packaging and management through the different NVS systems using WebSphere Message Broker (IBM) \n- MELVA project, Java Web Application (Struts and Hibernate ) for the Generalitat Valenciana forensics."
               }
             ],
             "competences": [
