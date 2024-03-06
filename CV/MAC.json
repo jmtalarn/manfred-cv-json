@@ -423,7 +423,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/838aa527-ecaa-4202-9335-7d8eb80694e4_vj2nh.png",
             "alt": "Profile Software Services"
-          }
+          },
+          "URL": "https://profile.es/"
         },
         "roles": [
           {
