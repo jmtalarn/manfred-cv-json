@@ -303,7 +303,7 @@
             "finishDate": "2018-12-31",
             "challenges": [
               {
-                "description": "Developing the new products management application in React.js and Redux. Templating system checking for the needed Technical SEO implementation SmartRecruiters integration with the current webpages Newsletter module UI builder, integrated in the new React.js application replacing the old one based on PHP."
+                "description": "Developing the new product management application in React.js and Redux. \nTemplating system checking for the needed Technical SEO implementation SmartRecruiters integration with the current webpages Newsletter module UI builder, integrated in the new React.js application replacing the old one based on PHP."
               }
             ],
             "competences": [
