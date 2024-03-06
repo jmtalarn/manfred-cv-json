@@ -432,7 +432,7 @@
             "finishDate": "2016-04-30",
             "challenges": [
               {
-                "description": "### Software engineer\n\nDefining and implementing: - deployment procedures - architectures for the backend. - building procedures for frontend projects\n\nBuilding java web projects. Integrating MongoDb and Spring-boot to implement API rest Services and user interfaces built with Angular.js Implemented a Continuous Integration system (Git, Jenkins, SonarQube) to build projects and deploy them into Amazon Web Services"
+                "description": "Defining and implementing: \n- deployment procedures \n- architectures for the backend. \n- building procedures for frontend projects\n\nBuilding java web projects. Integrating MongoDb and Spring-boot to implement API rest Services and user interfaces built with Angular.js Implemented a Continuous Integration system (Git, Jenkins, SonarQube) to build projects and deploy them into Amazon Web Services"
               }
             ],
             "competences": [
