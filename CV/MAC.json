@@ -871,6 +871,22 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Gestión de Proyectos con Scrum Manager",
+        "startDate": "2013-10-01",
+        "institution": {
+          "name": "ScrumManager",
+          "description": "Scrum agile methodology training and certication for [ScrumManager](https://www.scrummanager.com/),  provided by [PUE](https://www.pue.es/)  ",
+          "URL": "https://www.pue.es/cursos/scrum-manager",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/97dadebd-4b67-4787-a6ab-140c9abca5f6_scrummanager_logotyp.svg",
+            "alt": "scrummanager_logotype.svg"
+          }
+        },
+        "finishDate": "2018-10-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Google Developer Scholarship - Advanced Mobile Web Specialist track.",
         "startDate": "2017-11-01",
         "institution": {
