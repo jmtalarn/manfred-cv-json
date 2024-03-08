@@ -1007,6 +1007,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "MongoDB - The Complete Developer's Guide 2020",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
+          "URL": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/08/34819f54-f85d-476a-b977-b1d27cf81684_udemy-mongodb-comple.jpg",
+            "alt": "Udemy-MongoDB-CompleteDevGuide2020.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Preliminary English Test (PET) - Level B1",
         "startDate": "2011-07-01",
         "institution": {
