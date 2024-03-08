@@ -921,9 +921,9 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Mobile Web Specialist Nanodegree",
-        "startDate": "2018-02-01",
+        "startDate": "2018-06-01",
         "institution": {
           "name": "Mobile Web Specialist Nanodegree",
           "URL": "https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024",
@@ -932,7 +932,6 @@
             "alt": "Mobile Web Specialist Nanodegree"
           }
         },
-        "finishDate": "2018-06-30",
         "linkedCompetences": [
           {
             "name": "Gulp.JS",
