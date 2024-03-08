@@ -947,6 +947,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Preliminary English Test (PET)",
+        "startDate": "2011-07-01",
+        "institution": {
+          "name": "University of Cambridge. ESOL Examinations. ",
+          "description": "University of Cambridge. Official ESOL Examinations. The preliminary English Test is a general proficiency examination at Council of Europe Level B1 in the Common European Framework of Reference (CEFR). It is at Entry Level 3 in the UK National Qualifications Framework (NQF).",
+          "URL": "https://www.cambridgeenglish.org/exams-and-tests/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/08/419130f6-0575-4202-a45f-33bc4f1d6b25_certificatb1.jpeg",
+            "alt": "CertificatB1.jpeg"
+          }
+        }
       }
     ]
   },
