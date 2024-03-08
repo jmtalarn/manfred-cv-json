@@ -855,6 +855,39 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Advanced React and GraphQL",
+        "startDate": "2018-10-01",
+        "institution": {
+          "name": "Wes Bos",
+          "description": "This is a course that teaches everything you need to build a full-stack application with React.js and GraphQL. GraphQL API with Node.js on the backend and React and Apollo on the front end.\n\nFrom authentication and sending emails to uploading photos and caching data, even testing. The entire front end is built in modern React.js and GraphQL.\n\n",
+          "URL": "https://advancedreact.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/08/13013af8-69ce-45e1-8426-0535228b26b6_wesbos-advreactgraph.png",
+            "alt": "wesbos-advReactGraphql.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apollo",
+            "type": "technology"
+          },
+          {
+            "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Enginyeria tècnica en informàtica de gestió",
