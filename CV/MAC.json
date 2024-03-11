@@ -1007,6 +1007,10 @@
         },
         "linkedCompetences": [
           {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
             "name": "Gulp.JS",
             "type": "technology"
           },
