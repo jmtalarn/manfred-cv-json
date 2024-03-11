@@ -1089,6 +1089,22 @@
         },
         "linkedCompetences": [
           {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
             "name": "NPM",
             "type": "technology"
           },
