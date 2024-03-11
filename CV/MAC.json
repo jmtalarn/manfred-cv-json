@@ -747,7 +747,7 @@
       {
         "details": {
           "name": "web dev notes — web dev notes",
-          "description": "Web developer. Backend + Frontend. Learning about designing user interfaces, improvement of user experience and its implementation.",
+          "description": "Blog about web development. Some backend and some frontend stuff. Learning about designing user interfaces, improvement of user experience and its implementation, and any other web dev-related thing I thought should be written just in case I would need it anytime in the future.",
           "URL": "http://blog.jmtalarn.com/"
         },
         "type": "post",
@@ -758,7 +758,19 @@
             "type": "technology"
           },
           {
+            "name": "Elm",
+            "type": "technology"
+          },
+          {
             "name": "Gatsby",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
             "type": "technology"
           },
           {
@@ -766,7 +778,27 @@
             "type": "technology"
           },
           {
+            "name": "Jekyll",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "OpenShift",
+            "type": "technology"
+          },
+          {
             "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
             "type": "technology"
           }
         ]
