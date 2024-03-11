@@ -918,6 +918,7 @@
         "startDate": "1999-01-01",
         "institution": {
           "name": "Universitat Rovira i Virgili",
+          "description": "The Official Degree in Software Development provided a rigorous curriculum covering various aspects of software engineering. Through theoretical coursework and hands-on projects, I gained expertise in requirement analysis, solution modeling, and product management. Additionally, I acquired proficiency in programming languages, database management, and project management.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c66642f5-3664-4a9d-bd02-952fb71d0a4a_jlgja.png",
             "alt": "Enginyeria tècnica en informàtica de gestió"
@@ -1022,6 +1023,10 @@
           }
         },
         "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
           {
             "name": "MongoDB",
             "type": "technology"
