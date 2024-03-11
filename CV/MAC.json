@@ -948,7 +948,7 @@
         "startDate": "2017-11-01",
         "institution": {
           "name": "Udacity",
-          "description": "Challenge and Schollarship program. Once passed granted the access for the complete Mobile Web specialist Nanodegree in Udacity.\n\n* Offline Web Apps \n - Service Workers\n - IndexedDB API\n - Caching\n\n* ES6\n - Syntax, arrow functions and classes\n - Built-ins: Sets, Maps, Proxies, Generators, Iterators\n - Pollyfills and Transpilation",
+          "description": "Challenge and Schollarship program. Once passed granted the access for the complete Mobile Web specialist Nanodegree in Udacity.\n\n- Offline Web Apps \n    - Service Workers\n    - IndexedDB API\n    - Caching\n\n- ES6\n    - Syntax, arrow functions and classes\n    - Built-ins: Sets, Maps, Proxies, Generators, Iterators\n    - Pollyfills and Transpilation",
           "URL": "https://www.udacity.com/grow-with-google",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac20722f-57c8-401a-89dc-aabf981db952_f2oi3.jpg",
