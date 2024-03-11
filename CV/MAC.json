@@ -971,6 +971,10 @@
         "finishDate": "2018-02-01",
         "linkedCompetences": [
           {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
             "name": "JavaScript",
             "type": "technology"
           }
