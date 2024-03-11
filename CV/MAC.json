@@ -898,7 +898,19 @@
             "type": "technology"
           },
           {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
             "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
             "type": "technology"
           },
           {
