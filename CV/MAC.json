@@ -80,7 +80,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -220,7 +220,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -239,8 +239,8 @@
         "organization": {
           "name": "Rakuten",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8f05be50-1c1f-4f86-b5ad-337468fa02ca_mur8v.jpg",
-            "alt": "Rakuten"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/17/570130a3-4a76-4127-b402-4f0176669b4c_logo_rakuten.svg",
+            "alt": "logo_rakuten.svg"
           },
           "URL": "http://global.rakuten.com/corp"
         },
@@ -356,7 +356,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -452,7 +452,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -508,7 +508,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -552,7 +552,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -596,11 +596,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "JSP",
                 "type": "technology"
               },
               {
-                "name": "JSP",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -770,7 +770,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -850,7 +850,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
