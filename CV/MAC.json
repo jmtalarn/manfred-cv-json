@@ -673,8 +673,12 @@
       {
         "details": {
           "name": "Strikethru Ionic App",
-          "description": "A notebook implementation of the notebook for Strikethru productivity system",
-          "URL": "https://github.com/jmtalarn/strikethru"
+          "description": "Building another TODO list application step by step based on the principles of http://striketh.ru methodology",
+          "URL": "https://github.com/jmtalarn/strikethru",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/04/55f823dd-5dc0-4356-9404-41a88a664a02_android-icon-192x192.png",
+            "alt": "android-icon-192x192.png"
+          }
         },
         "type": "openSource",
         "roles": [
