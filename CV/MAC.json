@@ -631,6 +631,51 @@
     "projects": [
       {
         "details": {
+          "name": "Shared Cast",
+          "description": "I use to do searches about cast while I'm watching TV Shows or Movies, so I created this web application with Elm using the TMDB.org api where you can find cast shared between two TV Shows/Movies.\n\nIn this case it uses Netlify functions to add some backend NodeJs code needed in order to communicate with the API.",
+          "URL": "https://shared-casting.netlify.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/04/85449d01-0e66-4fe4-a6cb-9d8a1e85ee6d_svgviewer-png-output.png",
+            "alt": "svgviewer-png-output.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-01-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Elm",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Kids Reward System",
           "description": "A reward system to help children build habits is a great way to make learning and growth fun and engaging, encouraging positive behavior and motivation.\n\nProgressive Web Application built with React, using local storage for saving data.",
           "URL": "https://kids-reward-system.netlify.app",
@@ -1365,6 +1410,9 @@
       },
       {
         "name": "Kids Reward System"
+      },
+      {
+        "name": "Shared Cast"
       },
       {
         "name": "Strikethru Ionic App"
