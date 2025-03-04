@@ -631,6 +631,43 @@
     "projects": [
       {
         "details": {
+          "name": "Kids Reward System",
+          "description": "A reward system to help children build habits is a great way to make learning and growth fun and engaging, encouraging positive behavior and motivation.\n\nProgressive Web Application built with React, using local storage for saving data.",
+          "URL": "https://kids-reward-system.netlify.app",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/04/94d5b1b4-a80d-4512-85b4-3ac4b468d211_krs-logo.png",
+            "alt": "krs-logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-05-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Dungeons and Dragons - Adventure begins -- savegame",
           "description": "Dungeons and Dragons - Adventure begins is a board game based on the characters from Dungeons and Dragons. It uses to be a not so long game (45 minutes to 1 hour) but sometimes kids want to play another thing or we don't have any more time available to play so I created this progressive web application to save the stats of the current game. Progressive Web application using React and Local Storage to save the data locally on the device.",
           "URL": "https://jmtalarn.github.io/dd-ab-savegame/",
@@ -1325,6 +1362,9 @@
     "projects": [
       {
         "name": "Dungeons and Dragons - Adventure begins -- savegame"
+      },
+      {
+        "name": "Kids Reward System"
       },
       {
         "name": "Strikethru Ionic App"
