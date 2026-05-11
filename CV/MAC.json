@@ -631,6 +631,51 @@
     "projects": [
       {
         "details": {
+          "name": "Shared Grocery List PWA",
+          "description": "Installable grocery-list PWA (React, TypeScript, Vite, vite-plugin-pwa) with Supabase for auth/data, Replicache + Netlify Functions for offline-friendly sync, TanStack Query for server reads/writes, Dexie for local IndexedDB storage, i18next for languages, Lucide / react-icons for UI, and plain CSS. ",
+          "URL": "https://github.com/jmtalarn/grocery-pwa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/11/4565ba6d-2b57-429c-b122-29f222176ef8_favicon.svg",
+            "alt": "favicon.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Supabase",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2026-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Shared Cast",
           "description": "I use to do searches about cast while I'm watching TV Shows or Movies, so I created this web application with Elm using the TMDB.org api where you can find cast shared between two TV Shows/Movies.\n\nIn this case it uses Netlify functions to add some backend NodeJs code needed in order to communicate with the API.",
           "URL": "https://shared-casting.netlify.app/",
@@ -1413,6 +1458,9 @@
       },
       {
         "name": "Shared Cast"
+      },
+      {
+        "name": "Shared Grocery List PWA"
       },
       {
         "name": "Strikethru Ionic App"
