@@ -676,6 +676,43 @@
       },
       {
         "details": {
+          "name": "School Timetable",
+          "description": "Progressive web app to plan and track kids’ school timetables (subjects, children, weekly blocks, today/week views, settings, import/export). Anonymous sharing features for other parents. Built with React 19 and TypeScript, persisted in the browser with Zod-checked data, offline-ready (Vite PWA / Workbox), localised with react-intl, optional share links via Netlify Functions + Blobs, and a drag-and-drop editor using @dnd-kit.",
+          "URL": "https://github.com/jmtalarn/school-timetable",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/11/f57532a2-11ea-4ae6-8715-f2f523d31523_pwa-192x192.png",
+            "alt": "pwa-192x192.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-09-01",
+            "competences": [
+              {
+                "name": "Netlify",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Shared Cast",
           "description": "I use to do searches about cast while I'm watching TV Shows or Movies, so I created this web application with Elm using the TMDB.org api where you can find cast shared between two TV Shows/Movies.\n\nIn this case it uses Netlify functions to add some backend NodeJs code needed in order to communicate with the API.",
           "URL": "https://shared-casting.netlify.app/",
@@ -1455,6 +1492,9 @@
       },
       {
         "name": "Kids Reward System"
+      },
+      {
+        "name": "School Timetable"
       },
       {
         "name": "Shared Cast"
