@@ -998,7 +998,7 @@
         "details": {
           "name": "web dev notes — web dev notes",
           "description": "Blog about web development. Some backend and some frontend stuff. Learning about designing user interfaces, improvement of user experience and its implementation, and any other web dev-related thing I thought should be written just in case I would need it anytime in the future.",
-          "URL": "http://blog.jmtalarn.com/"
+          "URL": "https://jmtalarn.com/blog"
         },
         "type": "post",
         "publishingDate": "2015-07-01",
