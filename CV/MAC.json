@@ -631,6 +631,35 @@
     "projects": [
       {
         "details": {
+          "name": "Law 11 - Offside analyzer",
+          "description": "Elm project, deployed on Netlify. \n\nAn interactive Elm + SVG tactical board for building and visualising football offside decisions at the exact moment a pass is played — useful for educators, referees, and analysts to test scenarios and see instant onside/offside verdicts.",
+          "URL": "https://law11-offside-analyzer.netlify.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/08/12/0ded50f1-0545-41a3-b61e-f189a35068ce_26bd.png",
+            "alt": "26bd.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-08-01",
+            "competences": [
+              {
+                "name": "Elm",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2026-08-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Shared Grocery List PWA",
           "description": "Installable grocery-list PWA (React, TypeScript, Vite, vite-plugin-pwa) with Supabase for auth/data, Replicache + Netlify Functions for offline-friendly sync, TanStack Query for server reads/writes, Dexie for local IndexedDB storage, i18next for languages, Lucide / react-icons for UI, and plain CSS. ",
           "URL": "https://github.com/jmtalarn/grocery-pwa",
@@ -1467,7 +1496,8 @@
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
-        "permanent"
+        "permanent",
+        "freelance"
       ]
     }
   },
@@ -1497,6 +1527,9 @@
       },
       {
         "name": "Kids Reward System"
+      },
+      {
+        "name": "Law 11 - Offside analyzer"
       },
       {
         "name": "School Timetable"
